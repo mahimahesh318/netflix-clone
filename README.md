@@ -4,13 +4,13 @@ This is a simple Netflix clone created with HTML and CSS. This project is design
 
 **Features:**
 
-Responsive design
-Basic navigation menu
-Movie and TV show showcases
-CSS transitions and hover effects
+Responsive design, 
+Basic navigation menu, 
+Movie and TV show showcases, 
+CSS transitions and hover effects.
 
 **Technologies Used**
 
-HTML5
-CSS3
+HTML5, 
+CSS3.
 
